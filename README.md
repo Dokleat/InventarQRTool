@@ -1,4 +1,4 @@
-InventarQRTool
+## InventarQRTool
 
 Ein leichtgewichtiges Windows-Desktop-Tool zum Erzeugen von **QR‑Etiketten** und **PDF‑Bögen** für Inventarobjekte. Es speichert Metadaten (z. B. Rechnungs‑Nr., Bestell‑Nr., Garantie, Händler, Inventarnummer) und exportiert druckfertige Etiketten.
 
@@ -40,7 +40,7 @@ python src/InventarQRTool.py
 
 ## Portable EXE bauen
 ```powershell
-.uild.ps1
+build.ps1
 ```
 Die EXE liegt danach unter `dist/InventarQRTool.exe`.
 
